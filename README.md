@@ -15,3 +15,6 @@ function draw() {
   background(200);
 }
 ```
+
+![이거 뭐에요?]
+(https://i.pinimg.com/736x/cd/44/8c/cd448c689992180a7005486e12405cd8.jpg)
