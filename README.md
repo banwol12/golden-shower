@@ -13,6 +13,7 @@ function setup() {
 
 function draw() {
   background(200);
+  circle(50,50,50);
 }
 ```
 
