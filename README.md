@@ -6,7 +6,7 @@
 - ~~언리얼 터디 다 너무 어렵고 힘들어요 그냥 놀고 싶어요~~
 
 ## 예제코드
-``
+```javascript
 function setup() {
   createCanvas(400,400);
 }
@@ -14,3 +14,4 @@ function setup() {
 function draw() {
   background(200);
 }
+```
